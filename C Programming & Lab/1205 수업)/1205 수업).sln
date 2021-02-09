@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1205 수업)", "1205 수업)\1205 수업).vcxproj", "{4C81F713-8A12-4D74-9FC6-62371AA5FE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C81F713-8A12-4D74-9FC6-62371AA5FE58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C81F713-8A12-4D74-9FC6-62371AA5FE58}.Debug|Win32.Build.0 = Debug|Win32
+		{4C81F713-8A12-4D74-9FC6-62371AA5FE58}.Release|Win32.ActiveCfg = Release|Win32
+		{4C81F713-8A12-4D74-9FC6-62371AA5FE58}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

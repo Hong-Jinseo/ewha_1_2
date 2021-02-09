@@ -1,0 +1,23 @@
+﻿Build started 2019-12-03 오전 11:42:18.
+     1>Project "C:\Users\626an\Documents\Visual Studio 2010\Projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\1202 과제) 구조체, 포인터, 동적할당.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt battle.c
+         battle.c
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(32): warning C4101: 'size' : unreferenced local variable
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(76): error C2143: syntax error : missing ')' before ';'
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(76): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(77): error C2065: 'power_sum' : undeclared identifier
+     1>c:\users\626an\documents\visual studio 2010\projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\battle.c(86): error C2065: 'power_sum' : undeclared identifier
+     1>Done Building Project "C:\Users\626an\Documents\Visual Studio 2010\Projects\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당\1202 과제) 구조체, 포인터, 동적할당.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.03

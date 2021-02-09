@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1023 과제2 10진수를 2진수로", "1023 과제2 10진수를 2진수로\1023 과제2 10진수를 2진수로.vcxproj", "{8847B0C7-1A43-4089-A639-84011FB2AE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8847B0C7-1A43-4089-A639-84011FB2AE47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8847B0C7-1A43-4089-A639-84011FB2AE47}.Debug|Win32.Build.0 = Debug|Win32
+		{8847B0C7-1A43-4089-A639-84011FB2AE47}.Release|Win32.ActiveCfg = Release|Win32
+		{8847B0C7-1A43-4089-A639-84011FB2AE47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

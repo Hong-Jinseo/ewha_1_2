@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1126 실습) 구조체 포인터 동적할당", "1126 실습) 구조체 포인터 동적할당\1126 실습) 구조체 포인터 동적할당.vcxproj", "{D7E89DD9-9EF3-4347-9D97-1A2715B1F253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E89DD9-9EF3-4347-9D97-1A2715B1F253}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7E89DD9-9EF3-4347-9D97-1A2715B1F253}.Debug|Win32.Build.0 = Debug|Win32
+		{D7E89DD9-9EF3-4347-9D97-1A2715B1F253}.Release|Win32.ActiveCfg = Release|Win32
+		{D7E89DD9-9EF3-4347-9D97-1A2715B1F253}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
